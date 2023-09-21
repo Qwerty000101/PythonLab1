@@ -10,7 +10,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-Python1Lab/.vs/
+.vs/Python1Lab/
 dist/
 downloads/
 eggs/
