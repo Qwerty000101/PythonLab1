@@ -11,6 +11,9 @@ __pycache__/
 build/
 develop-eggs/
 .vs/Python1Lab/
+vs/Python1Lab/
+vs/
+.vs/
 dist/
 downloads/
 eggs/
